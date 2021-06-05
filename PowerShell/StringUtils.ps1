@@ -1,5 +1,5 @@
 $Text = '0123-4567-89AB-CDEF'
-$Pi = 3.14159265354
+$Pi = 3.141592653589793238462
 
 function Remove-Tail() {
     Param (
